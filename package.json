@@ -1,0 +1,11 @@
+{
+  "name": "simon-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx browser-sync start -sw"
+  },
+  "author": "Karina Khussainova",
+  "license": "ISC"
+}
